@@ -1,0 +1,381 @@
+[21-Oct-2018 18:30:03 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/login.php on line 9
+[22-Oct-2018 00:23:44 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/login.php on line 9
+[25-Oct-2018 07:00:40 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:00:40 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:00:42 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:00:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:00:42 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:00:42 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:05:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 150
+[25-Oct-2018 07:06:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 150
+[25-Oct-2018 07:06:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 150
+[25-Oct-2018 07:06:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 150
+[25-Oct-2018 07:06:17 Etc/GMT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 150
+[25-Oct-2018 07:07:20 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:07:20 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:07:23 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:07:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:07:23 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:07:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:08:27 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 07:08:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 07:09:14 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:14 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:09:18 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:09:18 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:09:37 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:37 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:09:43 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:09:43 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:09:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:10:00 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:10:00 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:10:02 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:10:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:10:02 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:10:02 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:10:03 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:10:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:10:03 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:10:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:53:04 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:53:04 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:53:11 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:53:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:53:11 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:53:11 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 07:53:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 07:53:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:01:06 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:01:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:01:48 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:01:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:01:49 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:01:49 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:25 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:37 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:37 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:48 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:54 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:54 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:56 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:56 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:03:56 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:03:56 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:04:03 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:04:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:04:06 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:04:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:04:06 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:04:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:04:08 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:04:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:04:08 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:04:08 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:11:43 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:11:43 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:13:48 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:13:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:24:58 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:24:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:25:06 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:25:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:25:15 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:25:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:25:23 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:25:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:26:18 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[25-Oct-2018 08:26:18 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 103
+[25-Oct-2018 08:30:39 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:30:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:30:48 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:30:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:30:55 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:30:55 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 08:31:05 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 08:31:05 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:07 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:07 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:12 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:12 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:17 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:17 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:30 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:30 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:39 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:20:39 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:20:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[25-Oct-2018 14:21:54 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[25-Oct-2018 14:21:54 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[26-Oct-2018 16:22:23 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[26-Oct-2018 16:22:23 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[26-Oct-2018 16:22:30 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[26-Oct-2018 16:22:30 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[26-Oct-2018 16:37:44 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 84
+[26-Oct-2018 16:37:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 104
+[28-Oct-2018 16:43:02 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[28-Oct-2018 16:43:03 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[28-Oct-2018 16:43:03 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[28-Oct-2018 16:44:09 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[28-Oct-2018 16:44:09 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[28-Oct-2018 16:44:09 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[28-Oct-2018 16:44:32 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[28-Oct-2018 16:44:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[28-Oct-2018 16:44:32 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[28-Oct-2018 16:45:24 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[28-Oct-2018 16:45:24 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[28-Oct-2018 16:45:24 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[28-Oct-2018 17:57:17 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[28-Oct-2018 17:57:17 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[28-Oct-2018 17:57:17 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:07:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:07:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:07:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:08:58 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:08:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:08:58 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:29:38 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:29:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:29:38 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:32:06 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:32:06 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:32:06 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:33:50 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:33:50 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:33:50 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:42:27 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:42:27 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:42:27 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:42:36 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:42:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:42:36 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:51:52 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:51:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:51:52 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:54:09 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:54:09 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:54:09 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[29-Oct-2018 16:59:20 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[29-Oct-2018 16:59:20 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[29-Oct-2018 16:59:20 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 04:26:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 04:26:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 04:26:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 04:33:44 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 04:33:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 04:33:44 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 04:54:50 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 04:54:50 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 04:54:50 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 16:02:40 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 16:02:41 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 16:02:41 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 16:06:44 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 16:06:44 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 16:06:44 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[30-Oct-2018 18:02:12 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[30-Oct-2018 18:02:12 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[30-Oct-2018 18:02:12 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:12:15 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:12:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:12:15 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:15:16 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:15:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:15:16 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:23:16 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:23:16 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:23:16 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:41:58 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:41:58 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:41:58 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:46:36 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 04:46:36 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 53
+[31-Oct-2018 04:46:36 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 136
+[31-Oct-2018 04:46:36 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 149
+[31-Oct-2018 04:48:31 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:48:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:48:31 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 04:59:17 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 04:59:17 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 04:59:17 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 05:07:21 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 05:13:25 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 05:13:25 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 05:13:25 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 05:56:38 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 05:56:38 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 05:56:38 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: Noq in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 72
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:48 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:50 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:51 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:52 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 06:16:53 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 6
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: Noq in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 72
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: uname in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: attempt in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 76
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: QL in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 83
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 93
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Notice:  Undefined index: qlist in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 94
+[31-Oct-2018 08:07:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 08:11:46 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 08:11:46 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 08:11:46 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 08:15:41 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 08:15:41 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 08:15:41 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 09:17:00 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 09:17:00 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:00 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 09:17:21 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:21 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:21 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:29 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:29 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:29 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:29 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:31 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:32 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:33 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  strpos(): Offset not contained in string in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 90
+[31-Oct-2018 09:17:36 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 12:39:15 Etc/GMT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 109
+[31-Oct-2018 12:39:15 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 110
+[31-Oct-2018 12:39:15 Etc/GMT] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/navlarkr/public_html/AnIntellectualDevelopment.com/give_physics_test.php on line 159
